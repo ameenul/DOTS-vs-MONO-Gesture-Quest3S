@@ -89,6 +89,11 @@ Buka `Assets/Recorder/Scenes/RecordingScene.unity`, build ke Quest, lalu rekam g
 Berkas tersimpan di `persistentDataPath/Dataset/` pada headset. Periksa hasilnya lewat
 **Tools → Gesture Benchmark → Dataset Inspector**.
 
+## Arsip proyek pengujian
+
+Proyek Unity asli tempat data dihasilkan (pengaturan proyek persis seperti saat pengujian) disimpan di
+[DOTS-vs-MONO-Gesture-Quest3S-archive](https://github.com/ameenul/DOTS-vs-MONO-Gesture-Quest3S-archive).
+
 ## Penulis
 
 Muhammad Aminul Akbar, S.Kom., M.T. (Ketua) · Ir. Issa Arwani, S.Kom., M.Sc. · Ir. Tri Afirianto, S.T., M.T.
