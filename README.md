@@ -1,5 +1,7 @@
 # DOTS vs MonoBehaviour — Gesture Zoom Dua Tangan di Meta Quest 3S
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24002597.svg)](https://doi.org/10.5281/zenodo.24002597)
+
 Testbed, perekam gesture, dataset, data hasil, dan skrip analisis untuk penelitian
 **"Analisis Perbandingan Performa Pendekatan Object-Oriented dan Data-Oriented pada Pemrosesan Gesture Zoom Dua Tangan di Meta Quest VR"**
 (Hibah Penelitian DIPA 2026, Fakultas Ilmu Komputer, Universitas Brawijaya).
@@ -88,6 +90,13 @@ Keluaran ditulis ke folder data yang sama. Hasil analisis yang dilaporkan sudah 
 Buka `Assets/Recorder/Scenes/RecordingScene.unity`, build ke Quest, lalu rekam gesture dengan dua controller.
 Berkas tersimpan di `persistentDataPath/Dataset/` pada headset. Periksa hasilnya lewat
 **Tools → Gesture Benchmark → Dataset Inspector**.
+
+## Sitasi
+
+Bila memakai testbed, dataset, atau data hasil dari repositori ini, mohon sitasi:
+
+> Akbar MA, Arwani I, Afirianto T. DOTS vs MonoBehaviour — Gesture Zoom Dua Tangan di Meta Quest 3S:
+> testbed, dataset, dan data hasil pengujian (v1.0) [Internet]. Zenodo; 2026. doi:10.5281/zenodo.24002597
 
 ## Arsip proyek pengujian
 
